@@ -1,6 +1,4 @@
 # Geography-of-Radio
-
-20-09-21      Michael Felzan, GIS 8990, Fall 2021
 ================================================================================
          THE GEOGRAPHY OF RADIO:
        
@@ -9,6 +7,8 @@
              as a Proxy for
       Spatiotemporal Popular Music Trends
 ================================================================================
+20-09-21   Michael Felzan, GIS 8990, Fall 2021
+
 
 Project Description:
   This project develops an ETL process for iteratively sampling radio station 
