@@ -1,0 +1,4 @@
+KGHP
+stream=https://ic1.mainstreamnetwork.com/kghp-fm
+
+KGHP2021_10_26_T12_54_13.mp3,song=Mrs. McGrath,artist=Bruce Springsteen,album=We Shall Overcome: The Seeger Sessions (American Land Edition),styles=Folk Rock,Country Rock

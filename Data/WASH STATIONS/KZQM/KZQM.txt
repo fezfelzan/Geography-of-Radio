@@ -1,0 +1,4 @@
+KZQM
+stream=https://crystalout.surfernetwork.com:8001/KZQM-FM_MP3
+
+KZQM2021_10_25_T21_03_20.mp3,song=It's Still Rock and Roll to Me,artist=Billy Joel,album=Piano Man: The Very Best of Billy Joel,styles=Folk Rock,Pop Rock,Art Rock,Acoustic,Ballad,Classic Rock

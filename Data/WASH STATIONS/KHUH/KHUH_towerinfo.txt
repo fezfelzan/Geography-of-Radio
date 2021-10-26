@@ -1,0 +1,7 @@
+{
+'ERP':'15 Watts'
+'Coords':'47° 36' 47" N, 122° 18' 18" W'
+'HAAT':'78 meters (256 feet)'
+'Height Above Ground Level':'14 meters (46 feet)'
+'Height Above Sea Level':'116 meters (381 feet)'
+}

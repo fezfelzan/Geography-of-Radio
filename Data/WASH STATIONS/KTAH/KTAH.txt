@@ -1,0 +1,4 @@
+KTAH
+stream=https://stream.radiotacoma.org/ktah.mp3
+
+KTAH2021_10_26_T12_44_52.mp3,song=I'm Losing It,artist=Fat Fox,album=I'm Losing It,styles=Hi NRG,Happy Hardcore,Vocal,Disco,Ragga HipHop,Techno,Euro House,Italodance,Funk

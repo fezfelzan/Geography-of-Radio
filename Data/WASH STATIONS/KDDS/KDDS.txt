@@ -1,0 +1,4 @@
+KDDS
+stream=http://bustosradio.com:8031/kdds
+
+KDDS2021_10_26_T12_10_54.mp3,song=Cómo Te Olvido,artist=La Arrolladora Banda El Limón De René Camacho,album=Cómo Te Olvido,styles=Norteño,Corrido,Cumbia,Tejano

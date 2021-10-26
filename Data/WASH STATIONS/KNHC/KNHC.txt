@@ -1,0 +1,5 @@
+KNHC
+stream=http://knhc-ice.streamguys1.com/live
+
+KNHC2021_10_25_T21_02_46.mp3,song=Don't Be Shy,artist=Tiësto,album=Don't Be Shy,styles=Dance-pop
+KNHC2021_10_26_T12_50_20.mp3,song=Future Starts Now,artist=Kim Petras,album=Future Starts Now,styles=Synth-pop,Electro

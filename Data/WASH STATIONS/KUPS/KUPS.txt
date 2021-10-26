@@ -1,0 +1,2 @@
+KUPS
+stream=https://streamingv2.shoutcast.com/kupsfm

@@ -1,0 +1,5 @@
+KACS
+stream=https://ic2.sslstream.com/kacs-fm
+
+KACS2021_10_26_T12_00_26.mp3,song=Less Like Me,artist=Zach Williams,album=Rescue Story,styles=Gospel,Country,Country Rock
+KACS2021_10_26_T12_58_34.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a

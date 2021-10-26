@@ -1,0 +1,5 @@
+KPLW
+stream=https://ice10.securenetsystems.net/PLR
+
+KPLW2021_10_26_T12_07_28.mp3,song=You Say,artist=Lauren Daigle,album=You Say,styles=
+KPLW2021_10_26_T12_40_05.mp3,song=Jesus, Only Jesus,artist=Phillips, Craig & Dean,album=Above It All,styles=Alternative Rock,Synth-pop

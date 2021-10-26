@@ -1,0 +1,2 @@
+KUGS
+stream=http://peridot.streamguys.com:7170/kugs-mp3

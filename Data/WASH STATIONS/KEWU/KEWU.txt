@@ -1,0 +1,4 @@
+KEWU
+stream=https://kewuradio.ewu.edu/KEWU_Jazz_89.5
+
+KEWU2021_10_26_T12_48_19.mp3,song=Esta Tarde Vi Llover,artist=Eliane Elias,album=Mirror Mirror,styles=Post Bop,Latin Jazz

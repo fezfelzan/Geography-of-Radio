@@ -1,0 +1,2 @@
+KBCS
+stream=http://www.ophanim.net:7720/stream

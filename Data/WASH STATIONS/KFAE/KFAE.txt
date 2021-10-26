@@ -1,0 +1,5 @@
+KFAE
+stream=http://134.121.234.129:8000/NWPRCLASSICAL
+
+KFAE2021_10_26_T12_06_04.mp3,song=Bernstein: Candide / Act I - 1. Overture,artist=London Symphony Orchestra,album=Famous Overtures,styles=Baroque,Classical,Romantic,Neo-Classical,Modern
+KFAE2021_10_26_T12_59_58.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a

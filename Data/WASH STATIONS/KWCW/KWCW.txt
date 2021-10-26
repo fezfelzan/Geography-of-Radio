@@ -1,0 +1,6 @@
+KWCW
+stream=http://shoutcast.whitman.edu:8000/;
+
+KWCW2021_10_25_T21_02_40.mp3,song=A Friend Named Paul,artist=Varsity,album=A Friend Named Paul,styles=Indie Pop
+KWCW2021_10_26_T12_11_13.mp3,song=Everything That Happens,artist=David Byrne and Brian Eno,album=Everything That Happens Will Happen Today,styles=Alternative Rock
+KWCW2021_10_26_T12_49_52.mp3,song=17,artist=Rick James,album=The Definitive Collection,styles=Funk

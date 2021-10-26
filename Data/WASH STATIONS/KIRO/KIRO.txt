@@ -1,0 +1,2 @@
+KIRO
+stream=https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFM.mp3

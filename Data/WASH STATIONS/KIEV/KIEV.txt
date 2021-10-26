@@ -1,0 +1,5 @@
+KIEV
+stream=https://usa17.fastcast4u.com/proxy/kievradio?mp=/1
+
+KIEV2021_10_26_T12_08_10.mp3,song=Dallas,artist=Alan Jackson,album=34 Number Ones,styles=Country
+KIEV2021_10_26_T12_41_38.mp3,song=That's the Way Love Goes,artist=Merle Haggard,album=The Essential Merle Haggard: The Epic Years,styles=Country

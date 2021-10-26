@@ -1,0 +1,6 @@
+KZZU
+stream=https://15373.live.streamtheworld.com/KZZUFMAAC_SC
+
+KZZU2021_10_25_T21_03_06.mp3,song=Stay,artist=The Kid LAROI,album=Stay,styles=
+KZZU2021_10_26_T12_11_38.mp3,song=Love Again,artist=Dua Lipa,album=Love Again,styles=Dance-pop,Synth-pop,Disco,Funk
+KZZU2021_10_26_T12_51_07.mp3,song=Who's In Your Head,artist=Jonas Brothers,album=Who's In Your Head,styles=

@@ -1,0 +1,5 @@
+KZTM
+stream=http://bustosradio.com:8039/kztm
+
+KZTM2021_10_26_T12_03_49.mp3,song=Cómo Te Olvido,artist=La Arrolladora Banda El Limón De René Camacho,album=Cómo Te Olvido,styles=Norteño,Corrido,Cumbia,Tejano
+KZTM2021_10_26_T13_01_39.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a

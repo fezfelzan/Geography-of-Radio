@@ -1,0 +1,2 @@
+KYRS
+stream=https://www.ophanim.net:8444/s/7170

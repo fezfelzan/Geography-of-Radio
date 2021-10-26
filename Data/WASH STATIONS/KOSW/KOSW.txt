@@ -1,0 +1,2 @@
+KOSW
+stream=http://ophanim.net:7040/;

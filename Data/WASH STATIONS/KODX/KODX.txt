@@ -1,0 +1,2 @@
+KODX
+stream=https://stream.pacificaservice.org:9000/kodx

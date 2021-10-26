@@ -1,0 +1,5 @@
+KSQM
+stream=https://video1.getstreamhosting.com:8182/stream
+
+KSQM2021_10_26_T12_08_28.mp3,song=After The Ball,artist=Guy Lombardo & His Royal Canadians,album=The Very Best Of,styles=Big Band,Vocal
+KSQM2021_10_26_T12_42_22.mp3,song=The Warmth of the Sun,artist=Beach Boys,album=Shut Down, Vol. 2,styles=Surf

@@ -1,0 +1,5 @@
+KXLY
+stream=https://13693.live.streamtheworld.com/KXLYFMAAC.aac
+
+KXLY2021_10_25_T21_04_10.mp3,song=If I Didn't Love You,artist=Jason Aldean,album=If I Didn't Love You,styles=Country
+KXLY2021_10_26_T12_53_26.mp3,song=Wild Hearts,artist=Keith Urban,album=Wild Hearts,styles=Vocal,Country

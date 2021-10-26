@@ -1,0 +1,7 @@
+KEXP
+stream=https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+
+KEXP2021_10_25_T19_59_19.mp3,song=Friends,artist=Big Gigantic,album=Free Your Mind,styles=Hip Hop
+KEXP2021_10_26_T11_12_56.mp3,song=holy calamafuck,artist=Run The Jewels,album=holy calamafuck,styles=
+KEXP2021_10_26_T12_19_42.mp3,song=The Joke,artist=Brandi Carlile,album=The Joke,styles=Pop Rock,Rock & Roll,Country Rock,Country
+KEXP2021_10_26_T12_50_29.mp3,song=The Beachland Ballroom,artist=IDLES,album=The Beachland Ballroom,styles=
