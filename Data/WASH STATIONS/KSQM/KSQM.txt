@@ -3,3 +3,7 @@ stream=https://video1.getstreamhosting.com:8182/stream
 
 KSQM2021_10_26_T12_08_28.mp3,song=After The Ball,artist=Guy Lombardo & His Royal Canadians,album=The Very Best Of,styles=Big Band,Vocal
 KSQM2021_10_26_T12_42_22.mp3,song=The Warmth of the Sun,artist=Beach Boys,album=Shut Down, Vol. 2,styles=Surf
+KSQM2021_11_03_T10_39_03.mp3,song=Am I Blue,artist=Linda Ronstadt,album=Am I Blue,styles=Easy Listening
+KSQM2021_11_03_T11_14_35.mp3,song=Best Friends (Album Version),artist=Basia,album=London, Warsaw, New York,styles=Synth-pop,Contemporary Jazz
+KSQM2021_11_03_T11_42_12.mp3,song=Rebeca's Waltz,artist=Marc Antoine,album=Madrid,styles=Smooth Jazz
+KSQM2021_11_03_T15_43_09.mp3,song=Play Something Sweet (Brickyard Blues),artist=Three Dog Night,album=The Collection,styles=Classic Rock

@@ -4,3 +4,8 @@ stream=https://15373.live.streamtheworld.com/KZZUFMAAC_SC
 KZZU2021_10_25_T21_03_06.mp3,song=Stay,artist=The Kid LAROI,album=Stay,styles=
 KZZU2021_10_26_T12_11_38.mp3,song=Love Again,artist=Dua Lipa,album=Love Again,styles=Dance-pop,Synth-pop,Disco,Funk
 KZZU2021_10_26_T12_51_07.mp3,song=Who's In Your Head,artist=Jonas Brothers,album=Who's In Your Head,styles=
+KZZU2021_10_27_T10_22_36.mp3,song=Someday,artist=OneRepublic,album=Human (Deluxe),styles=
+KZZU2021_10_27_T12_05_38.mp3,song=Shivers,artist=Ed Sheeran,album=Shivers,styles=Dance-pop
+KZZU2021_10_27_T12_31_57.mp3,song=One Call Away,artist=Charlie Puth,album=Nine Track Mind Deluxe,styles=Ballad,Contemporary R&B,Soul,Tropical House
+KZZU2021_11_03_T14_51_43.mp3,song=Señorita,artist=Shawn Mendes,album=Señorita,styles=
+KZZU2021_11_03_T15_52_17.mp3,song=Angel Baby,artist=Troye Sivan,album=Angel Baby,styles=House,Dance-pop,Vocal,Electro House,Grime,Country,Soundtrack,Indie Pop

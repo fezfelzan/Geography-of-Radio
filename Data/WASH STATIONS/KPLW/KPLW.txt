@@ -3,3 +3,7 @@ stream=https://ice10.securenetsystems.net/PLR
 
 KPLW2021_10_26_T12_07_28.mp3,song=You Say,artist=Lauren Daigle,album=You Say,styles=
 KPLW2021_10_26_T12_40_05.mp3,song=Jesus, Only Jesus,artist=Phillips, Craig & Dean,album=Above It All,styles=Alternative Rock,Synth-pop
+KPLW2021_11_03_T10_36_32.mp3,song=Good God Almighty,artist=Crowder,album=Good God Almighty,styles=
+KPLW2021_11_03_T11_11_25.mp3,song=The Lion and The Lamb,artist=Big Daddy Weave,album=Beautiful Offerings,styles=
+KPLW2021_11_03_T11_39_05.mp3,song=Whom Shall I Fear [God of Angel Armies],artist=Chris Tomlin,album=Burning Lights,styles=
+KPLW2021_11_03_T15_40_01.mp3,song=Next To Me,artist=Jordan Feliz,album=Next To Me,styles=

@@ -2,4 +2,5 @@ KCMS
 stream=https://crista-kcms.streamguys1.com/kcmsmp3
 
 KCMS2021_10_25_T21_05_27.mp3,song=Miracles,artist=Colton Dixon,album=Miracles,styles=
-KCMS2021_10_26_T12_56_26.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a
+KCMS2021_11_03_T10_53_34.mp3,song=Believe For It,artist=CeCe Winans,album=Believe For It [Live],styles=Gospel,Vocal
+KCMS2021_11_03_T14_57_40.mp3,song=The Thanksgiving Song,artist=Ben Rector,album=The Thanksgiving Song,styles=

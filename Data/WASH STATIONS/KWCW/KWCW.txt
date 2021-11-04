@@ -4,3 +4,8 @@ stream=http://shoutcast.whitman.edu:8000/;
 KWCW2021_10_25_T21_02_40.mp3,song=A Friend Named Paul,artist=Varsity,album=A Friend Named Paul,styles=Indie Pop
 KWCW2021_10_26_T12_11_13.mp3,song=Everything That Happens,artist=David Byrne and Brian Eno,album=Everything That Happens Will Happen Today,styles=Alternative Rock
 KWCW2021_10_26_T12_49_52.mp3,song=17,artist=Rick James,album=The Definitive Collection,styles=Funk
+KWCW2021_11_03_T10_47_05.mp3,song=Station,artist=Alex G,album=Beach Music,styles=Indie Rock,Lo-Fi
+KWCW2021_11_03_T11_22_36.mp3,song=Novim's Nightmare,artist=Yusuf / Cat Stevens,album=Numbers,styles=
+KWCW2021_11_03_T11_51_51.mp3,song=Something About Us,artist=Daft Punk,album=something about us (love theme from interstella),styles=House,Broken Beat,Deep House
+KWCW2021_11_03_T14_50_36.mp3,song=Wonderful,artist=Joel Grey,album=101 Broadway Musicals,styles=Musical
+KWCW2021_11_03_T15_51_10.mp3,song=Deja Vu (2006 Remaster),artist=Crosby, Stills, Nash & Young,album=Deja Vu (2006 Remaster),styles=Folk Rock,Pop Rock,Classic Rock,Soft Rock,Country Rock

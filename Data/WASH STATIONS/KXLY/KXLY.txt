@@ -3,3 +3,5 @@ stream=https://13693.live.streamtheworld.com/KXLYFMAAC.aac
 
 KXLY2021_10_25_T21_04_10.mp3,song=If I Didn't Love You,artist=Jason Aldean,album=If I Didn't Love You,styles=Country
 KXLY2021_10_26_T12_53_26.mp3,song=Wild Hearts,artist=Keith Urban,album=Wild Hearts,styles=Vocal,Country
+KXLY2021_11_03_T14_54_29.mp3,song=Come Back As A Country Boy,artist=Blake Shelton,album=Come Back As A Country Boy,styles=
+KXLY2021_11_03_T15_55_01.mp3,song=You Ain't Pretty,artist=Nate Barnes,album=You Ain't Pretty,styles=Ballad,Vocal,Swing

@@ -3,3 +3,7 @@ stream=https://www.streamvortex.com:8444/s/11390
 
 KMIH2021_10_26_T12_08_55.mp3,song=Dissolve,artist=Absofacto,album=Thousand Peaces,styles=Indie Rock
 KMIH2021_10_26_T12_43_39.mp3,song=Alone,artist=Halsey,album=Alone,styles=
+KMIH2021_11_03_T10_40_15.mp3,song=Shallow,artist=Lady Gaga,album=Shallow,styles=Ballad,Country Rock
+KMIH2021_11_03_T11_15_50.mp3,song=deja vu,artist=Olivia Rodrigo,album=deja vu,styles=Power Pop,Pop Punk,Acoustic,Ballad
+KMIH2021_11_03_T14_43_38.mp3,song=Hang Loose,artist=Alabama Shakes,album=Boys & Girls,styles=Southern Rock
+KMIH2021_11_03_T15_44_22.mp3,song=Levitating,artist=Dua Lipa,album=Levitating,styles=House,Dance-pop

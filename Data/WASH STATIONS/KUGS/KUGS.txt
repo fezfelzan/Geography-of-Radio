@@ -1,2 +1,7 @@
 KUGS
 stream=http://peridot.streamguys.com:7170/kugs-mp3
+
+KUGS2021_11_03_T11_24_21.mp3,song=Atomic Bomb,artist=William Onyeabor,album=World Psychedelic Classics 5: Who Is William Onyeabor?,styles=African,Leftfield,Disco,Psychedelic Rock
+KUGS2021_11_03_T11_53_43.mp3,song=Upside Down,artist=Fela Kuti,album=Upside Down / Music Of Many Colours,styles=Afrobeat,Jazz-Funk
+KUGS2021_11_03_T14_52_23.mp3,song=Telefone,artist=Bossacucanova &  Roberto Menescal,album=Telefone,styles=Bossanova
+KUGS2021_11_03_T15_52_56.mp3,song=Anyhow,artist=Tedeschi Trucks Band,album=Anyhow,styles=Blues Rock

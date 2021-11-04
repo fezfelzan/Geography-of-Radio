@@ -1,2 +1,6 @@
 KGRG
 stream=http://204.141.167.19:7090/stream?1573141452215.mp3
+
+KGRG2021_11_03_T11_20_38.mp3,song=Not the Way It Was,artist=Can't Swim,album=This Too Won't Pass,styles=Emo,Pop Punk,Post-Hardcore
+KGRG2021_11_03_T11_49_53.mp3,song=I'm Already Gone,artist=A Day To Remember,album=Common Courtesy,styles=Pop Punk,Metalcore
+KGRG2021_11_03_T15_49_12.mp3,song=Sing Me to Sleep,artist=Avion Roe,album=In Separation,styles=

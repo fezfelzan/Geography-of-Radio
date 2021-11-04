@@ -1,2 +1,5 @@
 KZAX
 stream=http://199.180.75.2:9395/stream/;
+
+KZAX2021_11_03_T14_34_15.mp3,song=5 Million Ways To Kill A C.E.O.,artist=The Coup,album=Party Music,styles=Conscious,Funk
+KZAX2021_11_03_T15_34_59.mp3,song=Kamane Tarhanin,artist=Mdou Moctar,album=Kamane Tarhanin,styles=African,Folk Rock

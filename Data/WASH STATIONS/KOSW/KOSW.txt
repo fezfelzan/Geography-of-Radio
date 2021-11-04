@@ -1,2 +1,5 @@
 KOSW
 stream=http://ophanim.net:7040/;
+
+KOSW2021_11_03_T10_33_47.mp3,song=Levon,artist=Elton John,album=Madman Across The Water,styles=Pop Rock,Classic Rock
+KOSW2021_11_03_T11_35_36.mp3,song=Life Is A Carnival,artist=The Band,album=To Kingdom Come (The Definitive Collection),styles=Folk Rock,Country Rock,Blues Rock,Classic Rock

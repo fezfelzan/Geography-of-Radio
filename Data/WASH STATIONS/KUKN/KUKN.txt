@@ -1,2 +1,6 @@
 KUKN
 stream=http://www.streamcontrol.net:11060/;
+
+KUKN2021_11_03_T11_35_05.mp3,song=Forever After All,artist=Luke Combs,album=Forever After All,styles=Country
+KUKN2021_11_03_T14_35_58.mp3,song=We Didn't Have Much,artist=Justin Moore,album=We Didn't Have Much,styles=Country,Western Swing,Honky Tonk
+KUKN2021_11_03_T15_36_42.mp3,song=American Kids,artist=Kenny Chesney,album=The Big Revival,styles=Country

@@ -2,3 +2,6 @@ KNKX
 stream=https://live.wostreaming.net/direct/ppm-knkxfmaac256-ibc1
 
 KNKX2021_10_25_T21_01_22.mp3,song=Barefoot Sunday Blues,artist=Cannonball Adderley Quartet,album=Cannonball Takes Charge,styles=Hard Bop,Bop,Soul-Jazz
+KNKX2021_11_03_T11_18_46.mp3,song=Mile High,artist=Yellowjackets,album=Jackets XL,styles=
+KNKX2021_11_03_T11_46_18.mp3,song=The Rhythm Section,artist=Dan Wilson,album=Vessels of Wood and Earth,styles=
+KNKX2021_11_03_T15_47_18.mp3,song=Madrid,artist=Brad Mehldau,album=Madrid,styles=Contemporary Jazz

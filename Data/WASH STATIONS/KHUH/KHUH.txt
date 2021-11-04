@@ -3,4 +3,7 @@ stream=http://centova.rockhost.com:8001/stream
 
 KHUH2021_10_25_T21_05_58.mp3,song=Ghost Song,artist=Air,album=The Virgin Suicides (Original Motion Picture Score),styles=Psychedelic Rock,Score,Downtempo,Ambient
 KHUH2021_10_26_T12_21_40.mp3,song=Cruisin USA,artist=iji,album=Cruisin USA,styles=Indie Pop
-KHUH2021_10_26_T12_57_49.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a
+KHUH2021_10_27_T16_19_49.mp3,song=Night Visions,artist=Pale Coast,album=Pale Coast,styles=Ambient,Drone,Experimental,Psychedelic Rock,New Age,Synth-pop
+KHUH2021_11_03_T10_30_17.mp3,song=Dust Bunnies,artist=Kurt Vile,album=Dust Bunnies,styles=Indie Rock
+KHUH2021_11_03_T11_30_39.mp3,song=Kaplumbağaların Uykusuna Dek,artist=Murat Kemaloğlu,album=Kaplumbağaların Uykusuna Dek,styles=
+KHUH2021_11_03_T15_33_11.mp3,song=Marzipan,artist=Cluster,album=Zuckerzeit,styles=Downtempo,Experimental

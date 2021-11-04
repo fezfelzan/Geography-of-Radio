@@ -2,4 +2,8 @@ KACS
 stream=https://ic2.sslstream.com/kacs-fm
 
 KACS2021_10_26_T12_00_26.mp3,song=Less Like Me,artist=Zach Williams,album=Rescue Story,styles=Gospel,Country,Country Rock
-KACS2021_10_26_T12_58_34.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a
+KACS2021_10_27_T11_28_52.mp3,song=Heaven Is The Face,artist=Steven Curtis Chapman,album=Beauty Will Rise,styles=Gospel,Religious
+KACS2021_10_27_T12_31_59.mp3,song=Bloodwashed Pilgrim,artist=Crystal Lewis,album=(Hymns) My Life,styles=Gospel,Easy Listening
+KACS2021_10_27_T16_20_34.mp3,song=To Cry for You,artist=Carolyn Arends,album=To Cry for You,styles=
+KACS2021_11_03_T14_33_11.mp3,song=Christ In You [Instrumental],artist=Integrity Music,album=Experience Hope [Instrumental],styles=Religious
+KACS2021_11_03_T15_33_54.mp3,song=My Jesus,artist=Anne Wilson,album=My Jesus,styles=Gospel

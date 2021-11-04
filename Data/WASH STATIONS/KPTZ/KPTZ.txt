@@ -2,3 +2,4 @@ KPTZ
 stream=https://kptz.streamguys1.com/live-mp3
 
 KPTZ2021_10_26_T12_12_04.mp3,song=With My Little Ukelele In My Hand,artist=George Formby,album=George Formby. When I'm Cleaning Windows - His 52 Finest 1932-1946,styles=Music Hall,Novelty,Comedy
+KPTZ2021_11_03_T11_25_03.mp3,song=Terra Esperança,artist=Sivuca,album=Terra Esperança,styles=

@@ -2,3 +2,7 @@ KZQM
 stream=https://crystalout.surfernetwork.com:8001/KZQM-FM_MP3
 
 KZQM2021_10_25_T21_03_20.mp3,song=It's Still Rock and Roll to Me,artist=Billy Joel,album=Piano Man: The Very Best of Billy Joel,styles=Folk Rock,Pop Rock,Art Rock,Acoustic,Ballad,Classic Rock
+KZQM2021_11_03_T11_24_20.mp3,song=Can't Take My Eyes Off You,artist=Frankie Valli,album=The Very Best Of Frankie Valli & The 4 Seasons,styles=
+KZQM2021_11_03_T11_53_42.mp3,song=You Wear it Well,artist=Rod Stewart,album=The Story So Far-Very Best of,styles=Pop Rock,Soft Rock,Ballad
+KZQM2021_11_03_T14_52_21.mp3,song=More, More, More, Pt. 1,artist=Andrea True Connection,album=More Monty,styles=Synth-pop,Disco
+KZQM2021_11_03_T15_52_54.mp3,song=I Saw The Light,artist=Todd Rundgren,album=Definitive Rock: Todd Rundgren,styles=Classic Rock

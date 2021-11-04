@@ -5,7 +5,5 @@ KEGX2021_10_24_T23_57_37.mp3,song=Remedy,artist=The Black Crowes,album=Sho' Nuff
 KEGX2021_10_25_T19_57_09.mp3,song=Can't Get Enough,artist=Bad Company,album=10 From 6,styles=Hard Rock,Classic Rock
 KEGX2021_10_25_T21_05_15.mp3,song=Dust in the Wind,artist=Kansas,album=The Best Of Kansas,styles=Rock & Roll,Hard Rock,Classic Rock,Prog Rock
 KEGX2021_10_25_T21_11_25.mp3,song=Burnin' for You,artist=Blue Öyster Cult,album=Collections,styles=Hard Rock
-KEGX2021_10_26_T12_55_49.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a
-KEGX2021_10_26_T15_05_49.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a
-KEGX2021_10_26_T15_11_47.mp3,song=no_data,artist=no_data,album=no_data,styles=n,o,_,d,a,t,a
 KEGX2021_10_26_T17_26_55.mp3,song=Free Fallin',artist=Tom Petty,album=Anthology: Through The Years,styles=Soft Rock,Pop Rock,Classic Rock
+KEGX2021_11_03_T14_57_09.mp3,song=You've Got Another Thing Comin',artist=Judas Priest,album=British Steel/Point Of Entry/Screaming For Vengeance (3 Pak),styles=Hard Rock,Heavy Metal

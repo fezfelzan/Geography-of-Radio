@@ -1,2 +1,5 @@
 KMRE
 stream=http://199.180.75.2:9391/;
+
+KMRE2021_11_03_T14_34_43.mp3,song=I'm On Your Side,artist=Bonnie Raitt,album=Fundamental,styles=Blues Rock,Pop Rock
+KMRE2021_11_03_T15_35_28.mp3,song=Bank Robber,artist=Eli Paperboy Reed,album=Bank Robber,styles=Soul

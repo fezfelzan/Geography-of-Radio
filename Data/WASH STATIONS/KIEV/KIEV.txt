@@ -3,3 +3,7 @@ stream=https://usa17.fastcast4u.com/proxy/kievradio?mp=/1
 
 KIEV2021_10_26_T12_08_10.mp3,song=Dallas,artist=Alan Jackson,album=34 Number Ones,styles=Country
 KIEV2021_10_26_T12_41_38.mp3,song=That's the Way Love Goes,artist=Merle Haggard,album=The Essential Merle Haggard: The Epic Years,styles=Country
+KIEV2021_11_03_T11_13_55.mp3,song=Family Tradition,artist=Hank Williams, Jr.,album=Best Of - All My Rowdy Friends,styles=Country
+KIEV2021_11_03_T11_41_31.mp3,song=The Thunder Rolls,artist=Garth Brooks,album=The Ultimate Hits,styles=
+KIEV2021_11_03_T14_41_45.mp3,song=Give All You Can,artist=Cody Jinks,album=I'm Not The Devil,styles=Country
+KIEV2021_11_03_T15_42_29.mp3,song=The Way I Am,artist=George Jones,album=Kickin' Out The Footlights... Again: Jones Sings Haggard, Haggard Sings Jones,styles=Country

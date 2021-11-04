@@ -5,3 +5,14 @@ KEXP2021_10_25_T19_59_19.mp3,song=Friends,artist=Big Gigantic,album=Free Your Mi
 KEXP2021_10_26_T11_12_56.mp3,song=holy calamafuck,artist=Run The Jewels,album=holy calamafuck,styles=
 KEXP2021_10_26_T12_19_42.mp3,song=The Joke,artist=Brandi Carlile,album=The Joke,styles=Pop Rock,Rock & Roll,Country Rock,Country
 KEXP2021_10_26_T12_50_29.mp3,song=The Beachland Ballroom,artist=IDLES,album=The Beachland Ballroom,styles=
+KEXP2021_10_27_T10_19_23.mp3,song=Velouria,artist=Pixies,album=Bossanova,styles=Indie Rock
+KEXP2021_10_27_T10_37_45.mp3,song=Clean Air,artist=Hand Habits,album=Fun House,styles=
+KEXP2021_10_27_T11_31_40.mp3,song=Sunrise,artist=Explosions In The Sky,album=Big Bend (An Original Soundtrack for Public Television),styles=Post Rock,Soundtrack
+KEXP2021_10_27_T12_05_38.mp3,song=Marching Bands of Manhattan,artist=Death Cab for Cutie,album=Marching Bands of Manhattan,styles=Indie Rock
+KEXP2021_10_27_T12_28_13.mp3,song=Nighttime Drive,artist=Jay Som,album=Anak Ko,styles=Indie Rock,Lo-Fi,Indie Pop
+KEXP2021_10_27_T12_31_57.mp3,song=Come Around,artist=Breeze,album=Only Up,styles=Post-Punk,Brit Pop,Alternative Rock,Dream Pop
+KEXP2021_10_27_T12_38_08.mp3,song=Less Yes's, More No's,artist=Busdriver,album=RoadKill Overcoat,styles=Abstract
+KEXP2021_11_03_T10_47_40.mp3,song=Goodbye,artist=The Sundays,album=Blind,styles=Indie Rock
+KEXP2021_11_03_T11_23_07.mp3,song=Unbelievable,artist=EMF,album=Le 100 Sexy Hit,styles=Alternative Rock,Ballad,Brit Pop,Hip Hop,House,Pop Rap,Pop Rock,RnB/Swing,Synth-pop,UK Garage
+KEXP2021_11_03_T11_52_22.mp3,song=The Rat,artist=The Walkmen,album=Bows + Arrows,styles=Indie Rock
+KEXP2021_11_03_T14_51_08.mp3,song=You Dropped A Bomb On Me,artist=The Gap Band,album=Gap Gold - Best Of The Gap Band,styles=Funk

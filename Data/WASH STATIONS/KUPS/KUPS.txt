@@ -1,2 +1,5 @@
 KUPS
 stream=https://streamingv2.shoutcast.com/kupsfm
+
+KUPS2021_11_03_T14_41_02.mp3,song=Breathe In, Breathe Out,artist=Set It Off,album=Horrible Kids,styles=Alternative Rock
+KUPS2021_11_03_T15_41_46.mp3,song=How Lucky,artist=John Prine;Kurt Vile,album=How Lucky,styles=

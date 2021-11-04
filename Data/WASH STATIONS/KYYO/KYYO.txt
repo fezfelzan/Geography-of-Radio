@@ -1,2 +1,5 @@
 KYYO
 stream=http://stream1.noctel.com:7003/969kayo
+
+KYYO2021_11_03_T11_27_49.mp3,song=Sleepwalk,artist=The Shadows,album=You Must Be Hank Marvin (Remastered),styles=
+KYYO2021_11_03_T11_57_12.mp3,song=What’s Your Country Song,artist=Thomas Rhett,album=What's Your Country Song,styles=

@@ -1,2 +1,4 @@
 KSER
 stream=http://jade.streamguys1.com:4050/live
+
+KSER2021_11_03_T14_45_57.mp3,song=Fire,artist=Black Pumas,album=Fire / Black Moon Rising,styles=Psychedelic,Soul

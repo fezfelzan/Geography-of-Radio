@@ -1,2 +1,5 @@
 KBFG
 stream=http://192.81.134.38:8001/kbfg-2
+
+KBFG2021_11_03_T11_25_47.mp3,song=Mexico Esperanza,artist=Dick Dale,album=Spacial Disorientation,styles=Surf
+KBFG2021_11_03_T11_55_08.mp3,song=La Pistola Y El Corazón,artist=Los Lobos,album=La Pistola Y El Corazon,styles=Norteño,Son,Ranchera,Mariachi
