@@ -32,12 +32,15 @@ Project Description:
 GitHub Repo File Descriptions:
 
    In the "Code" repo :    
+   
         - 'fezCC.js' -- copy of the javascript file lifted from the FCC 'FM and TV 
            Propagation Curve Calculator' website. It is used for calculating the
            distance you'd have to be from a radio tower (given a tower's ERP and
            HAAT) to receive a field strength of 60dBu (local coverage)
+           
         - 'Final Geog of Radio Notebook (8990).ipynb' -- Jupyter Notebook which
            holds all of the code operations associated with this study
+           
         - [rest of the files] : files needed to initiate ACRCloud API setup
 
 ================================================================================
