@@ -42,6 +42,19 @@ GitHub Repo File Descriptions:
            holds all of the code operations associated with this study
            
         - [rest of the files] : files needed to initiate ACRCloud API setup
+      
+   In the "Data" repo :
+   
+        - 'MASTER_CSV.csv' -- spreadsheet of *all* station data mined from 
+           Radio Garden
+        - 'us_4.csv' -- spreadsheet of only US stations' data from the 
+           Radio Garden data
+        - 'WashingtonStations_filled.csv' -- spreadsheet of station data for
+          *only* stations in the state of Washington
+        - 'WashingtonStations_OnlyFM' -- station data spreadsheet of *only* the 
+           Washington (web) stations that have powered FM towers ~in the real world~
+        - 'fatal_error_wash.txt' -- text file for storing names of Washington stations
+           from the above spreadsheet which seem to have 'broken' stream URLs
 
 ================================================================================
 
